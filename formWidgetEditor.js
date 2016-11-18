@@ -1,5 +1,4 @@
 'use strict';
-
 var isTitleValid = function (value) {
   // allow letters, commas, numbers and spaces
   var commaDelimitedRegEx = /^[A-Za-z0-9,\s]+$/;
